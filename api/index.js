@@ -16,7 +16,7 @@ const secret = "asdfe45we45w345wegw345werjktjwertkj";
 
 const ATLAS_URL =
   //replace the below with your own URL of mongo cluster
-  "mongodb+srv://shaunvoner:crowdlinker2023@cluster0.wbtzhj1.mongodb.net";
+  "PUT ATLAS URL HERE";
 
 app.use(cors({ credentials: true, origin: "http://localhost:3000" }));
 app.use(express.json());
